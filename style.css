@@ -1,0 +1,11 @@
+
+@font-face {
+    font-family: jhon;
+    src: url(LEMONMILK-Light.otf);
+}
+body{
+ font-family: jhon;
+ background-color: rgb(101, 101, 255);
+}
+
+
